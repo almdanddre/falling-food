@@ -7,3 +7,5 @@ Confira algumas imagens do jogo nos arquivos .png deste repositório.
 
 ## Quer Jogar?
 [🎮 Clique aqui para baixar o jogo! (formato .sb3)](https://github.com/anddre0/falling-food/raw/master/Falling%20Food_%20Alimente-se%20Bem!.sb3)
+
+Obs.: Faça o download do [Scratch 2.0 desconectado](https://scratch.mit.edu/download/scratch2)
